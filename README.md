@@ -13,5 +13,5 @@ Old pictures of the progress (for now WebUI only):
 ![image](https://github.com/SinanAkkoyun/mc-web-console/assets/43215895/cb6866ac-66d9-4754-9993-7528ea17d6d9)
 
 ![image](https://github.com/SinanAkkoyun/mc-web-console/assets/43215895/f0ea2133-df9d-44e8-96eb-9793aefd7a28)
+![image](https://github.com/SinanAkkoyun/mc-web-console/assets/43215895/b0e827f0-5059-496e-a102-190b4f345127)
 
-![image](https://github.com/SinanAkkoyun/mc-web-console/assets/43215895/f3a438a5-fbcc-4893-a73c-1e2cfb182101)
