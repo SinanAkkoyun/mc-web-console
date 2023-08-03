@@ -4,13 +4,14 @@ Responsive Web UI for interactive full color Minecraft server consoles!
 The goal is to enable a whole suite of admin tools for your server (Docker and direct support)
  
 # Old
-This is the beginning of an old project which I do not work on anymore.
+This is the beginning of an old project which I do not work on anymore. I had more important stuff to do.
 
+Old pictures of the progress (for now WebUI only):
 
-Here is the old progress:
+![image](https://github.com/SinanAkkoyun/mc-web-console/assets/43215895/19b9f1eb-4bd1-47d8-b4e2-03c1fd5cc3dc)
 
-![image](https://github.com/SinanAkkoyun/mc-web-console/assets/43215895/299bace4-265b-4428-8e9a-2707cbd88911)
+![image](https://github.com/SinanAkkoyun/mc-web-console/assets/43215895/cb6866ac-66d9-4754-9993-7528ea17d6d9)
 
-![image](https://github.com/SinanAkkoyun/mc-web-console/assets/43215895/c05ba74d-14b0-4d68-8cff-a3063dfe0ae6)
+![image](https://github.com/SinanAkkoyun/mc-web-console/assets/43215895/f0ea2133-df9d-44e8-96eb-9793aefd7a28)
 
-![image](https://github.com/SinanAkkoyun/mc-web-console/assets/43215895/70b629c1-e112-4bb6-910c-6b8e62dfd339)
+![image](https://github.com/SinanAkkoyun/mc-web-console/assets/43215895/f3a438a5-fbcc-4893-a73c-1e2cfb182101)
